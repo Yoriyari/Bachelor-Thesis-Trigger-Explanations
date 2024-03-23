@@ -1,0 +1,1294 @@
+[
+  {
+    "text": "Medical camp at Mathugama today . # FloodSL @ ippfsar # srhr # volunteers",
+    "label": "O O O B-LOC O O O O O O O O O O"
+  },
+  {
+    "text": "Maldives offers financial assistance to flood hit Sri Lanka",
+    "label": "O O O O O O O B-LOC I-LOC"
+  },
+  {
+    "text": "@ AnoopCilantro @ CANSouthAsia The # FloodSL death toll now officially passed 200 . Several people missing . Relief operations delayed with intermittent heavy showers",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "More aid distribution took place in Elapatha DS , # Rathnapura for people affected by floods . Donations made by Manusath Derana # LKA # FloodSL",
+    "label": "O O O O O O B-LOC O O O B-LOC O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# SriLankan Government reconstruct the houses destroyed and damaged by the devastating floods and landslides in the countr # FloodSL",
+    "label": "O B-LOC O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ royalsaajid : We were able to reach more than 1000 people around # Kalutara district through our # Medical camps ! # FloodSL # kyf",
+    "label": "O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O"
+  },
+  {
+    "text": "DEWN ( Disaster Emergency Warning Network ) GET ALERTS ON DISASTERS TO YOUR SMARTPHONE # SLFLoods2017 # FloodSL # lka # dmclk # FloodReliefSL",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "IndianNavy n SL Navy joint medical camp n flood relief operations @ Nagoda Hospital , Kalutara @ SushmaSwaraj @ indiannavy @ ANI_news # FloodSL",
+    "label": "O O O O O O O O O O O O B-LOC I-LOC O B-LOC O O O O O O O O"
+  },
+  {
+    "text": "RT @ ItsYakin : Total package worth Rs . 600 million for 100,000 smallholders in # FloodSL districts , will also replace damaged Tea plants free",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Honduras - Deadly Floods in Choluteca After 190 mm Rain in 24 Hours via @ Flood_List # lka # srilanka",
+    "label": "B-LOC O O O O B-LOC O O O O O O O O O O O O O B-LOC"
+  },
+  {
+    "text": "South Korean Actress Lee Young-ae , \u2018 Changumi \u2019 in Sujatha Diyani has donated US $ 50,000 to # FloodSL Relief efforts # SriLanka -DM # LKA",
+    "label": "B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O B-LOC O O O"
+  },
+  {
+    "text": "Pakistan navy ship zulfiquar entered sri lanka \u1f1f1\u1f1f0 for humanitarian mission during the recent flood # reliefmissions # pakistannavy \u1f1f5\u1f1f0",
+    "label": "B-LOC O O O O B-LOC I-LOC O O O O O O O O O O O O O"
+  },
+  {
+    "text": "EU provides 300000 euros to flood-hit Sri Lanka # news",
+    "label": "B-LOC O O O O O B-LOC I-LOC O O"
+  },
+  {
+    "text": "Over 10 days since # disasters struck # lka , the death toll due to adverse # weather increased to 213 ; 79 missing # flood # FloodSL",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Health Officials Request Public to Drink Boiled Water to avoid Health problems & Diseases that can spread after # FloodSL # LKA # SriLanka",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O B-LOC"
+  },
+  {
+    "text": "Fundraising for Sri Lanka Flood Victims via @ gofundme",
+    "label": "O O B-LOC I-LOC O O O O O"
+  },
+  {
+    "text": "How much of # FloodSL relief & recovery funding go into @ UNSriLankas admin overheads ? Isnt it better to donate direct to local charities ?",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ JohnWRendon : # SriLanka : # China dispatches 3 naval vessels in a # SmartPower activity to assist with the flooding that has taken place .",
+    "label": "O O O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ PKKHTweet : Pakistan Navy extends relief activities to flood stricken Srilanka",
+    "label": "O O O O B-LOC O O O O O O O B-LOC"
+  },
+  {
+    "text": "Medical supplies to overcome health hazards in the flood aftermath form part of Indias relief material # FloodSL @ SushmaSwaraj @ indiannavy",
+    "label": "O O O O O O O O O O O O O B-LOC O O O O O O O O"
+  },
+  {
+    "text": "WHO-MOH assess areas affected by floods in # SriLanka \u1f1f1\u1f1f0 . Strengthening medical services & providing mental health care is vital . # FloodSL",
+    "label": "O O O O O O O O B-LOC O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": ". @ UNCERF has released $ 4m to help 120,000 people in # SriLanka affected by # floods & # landslides . Read it here :",
+    "label": "O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O"
+  },
+  {
+    "text": "# Pakistan Navy takes part in flood relief activities in Sri Lanka after flood , PNS Zulfiqar is part it # NewsAlertwithSuperwomen",
+    "label": "O B-LOC O O O O O O O O B-LOC I-LOC O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ reliefweb : . @ UNmigration to assist # SriLanka Flood & Landslide victims in worst affected areas",
+    "label": "O O O O O O O O O O B-LOC O O O O O O O O"
+  },
+  {
+    "text": "# SriLanka # lka # FloodSL Please help",
+    "label": "O B-LOC O O O O O O"
+  },
+  {
+    "text": "EU provides satellite maps and \u20ac300 000 for humanitarian aid delivery to flood victims in # SriLanka : # SriLankaFloods",
+    "label": "O O O O O O O O O O O O O O O O B-LOC O O O"
+  },
+  {
+    "text": "Compensation for flood damage ; NITF pays Rs . 125 m To learn more @ BuyObserver # SundayObserver # FloodSL # FloodRelief",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ priyatharshan1 : Death toll due to adverse weather increased to 224 ; 78 missing & 698,289 affected : # DMC # lka # FloodSL",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ MitKat_Advisory : # SriLanka : # Navy continues with rescue and relief efforts in # flood affected areas ; Southern Expressway opens for moto",
+    "label": "O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Galle - Baddegama main road flooded in due the Moragoda Ela water level reached flood level in Dangedara area. # SriLanka # LKA # srilanka # lka",
+    "label": "B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "Floods and landslides in the south-western parts of # SriLanka caused : \u27a8deaths \u27a8displacements \u27a8infrastructure damage",
+    "label": "O O O O O O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "Popular Korean actress donates to flood hit Sri Lanka",
+    "label": "O B-LOC O O O O O B-LOC I-LOC"
+  },
+  {
+    "text": "RT @ maritall : Norway provide NOK 10 million ( USD 1,2 million ) in flood and landslide relief to Sri Lanka # SLfloods # SriLankaFloods /",
+    "label": "O O O O B-LOC O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O"
+  },
+  {
+    "text": "USS # LakeErie \u2019 s crew continues support for disaster relief efforts following heavy flooding and landslides in # SriLanka",
+    "label": "O O O O O O O O O O O O O O O O O O O B-LOC"
+  },
+  {
+    "text": "URGENT : Govt wants people living in hill areas in following places to evacuate immediately because of possible landslide threats # FloodSL",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "A # Pakistan NGO , @ Info_ALKHIDMAT provided the # FloodRelief to the tune of US $ 25,000 to the recent # FloodSL & landslides victims in # lka",
+    "label": "O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ RefugeesMedia : Cyclone Mora : Urgent shelter needs in Bangladesh , Myanmar -- @ refugees Our latest :",
+    "label": "O O O O O O O O O O O B-LOC O B-LOC O O O O O O"
+  },
+  {
+    "text": "Financial donation for flood relief handed over to Secretary # SriLanka # LK # lka",
+    "label": "O O O O O O O O O O B-LOC O O O O"
+  },
+  {
+    "text": "US contributes Rs350 mln for Sri Lanka flood relief",
+    "label": "B-LOC O O O O B-LOC I-LOC O O"
+  },
+  {
+    "text": "President Maithripala Sirisena made an inspection tour in areas affected by # FloodSL & Landslides in Bulathsinhala # LKA # SriLanka",
+    "label": "O O O O O O O O O O O O O O O O B-LOC O O O B-LOC"
+  },
+  {
+    "text": "RT @ Iyoshan : respect you Skipper @ Angelo69Mathews you dedicated this win for the flood victims # SLvsIND # iccchampionstrophy2017 # FloodSL",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "\u1f30F Please donate funds for # SriLanka \u1f1f1\u1f1f0Worst flooding since 2003 . Go to # RedCross Need # HelpforSriLanka # lka # SriLankaFloods # GlobalVillage",
+    "label": "O O O O O O B-LOC O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ AmanthaP : APPEAL @ SLRedCross running low on medical stocks Gampaha , Matara , Galle # FloodSL those who can help pls contact @ Mahieash 077",
+    "label": "O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O O O O O O O O O O O"
+  },
+  {
+    "text": "# UN appeals for more resources for flood-hit # SriLanka",
+    "label": "O O O O O O O O O B-LOC"
+  },
+  {
+    "text": ". @ Google helps # SriLanka Donate to the Center for Disaster Philanthropy to support # FloodSL . The nonprofit will receive 100 % of all proceeds",
+    "label": "O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "2 dead after historic flooding hit Nebraska - News Updates # NewsTV # TalkShow # LiveTV # NewsUpdate # NewsAlert",
+    "label": "O O O O O O B-LOC O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Please share this with anyone you know who was affected by these storms and anyone you know that would like to help . Also please donate if you can to states like Nebraska .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O"
+  },
+  {
+    "text": "honored to be playing in the great state of Nebraska tmrw , which has recently experienced some of the worst flooding in its history . call 844-278-8555 to make a donation to support the American Red Cross # NebraskaStrong",
+    "label": "O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Authorities say a body washed up on shore of the Elkhorn River , but they say it was not identified as a Norfolk man who went missing during recent flooding .",
+    "label": "O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O B-LOC O O O O O O O O"
+  },
+  {
+    "text": "NEBRASKA DISASTER RELIEF The Nebraska Synod is coordinating with Lutheran Disaster Reponse to prepare for recovery efforts following March \u2019 s flooding and blizzard . We are creating a dedicated account for special gifts for",
+    "label": "B-LOC O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Farmers & Ranchers from ND caravan down to Nebraska to help out after the floods .",
+    "label": "O O O O O O O O B-LOC O O O O O O O"
+  },
+  {
+    "text": "April 7th - 13th is National Volunteer Week ! Nebraska Extension in Washington County would not be possible without the help and support of volunteers ! \u1f601",
+    "label": "O O O O O O O O O B-LOC O O B-LOC O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Nebraskas latest weather disaster has caused more than $ 1.3 billion in damages , including homes , businesses and state infrastructure . But @ LegalAidNEB is working to support farmers and low-income families . Learn more here :",
+    "label": "B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "As Nebraskans begin returning to their homes in the aftermath of widespread historic flooding , Nebraska Extension has mobilized a number of resources to aid in the road to recovery . \u203a\u203a # NebraskaStrong",
+    "label": "O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Two more birdies yesterday to bring the total to 14 for the week and $ 350 going to Flood Relief in Nebraska ! Thanks to everyone their support !",
+    "label": "O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O"
+  },
+  {
+    "text": "Columbia County farmer departs for Nebraska to help colleagues struggling from devastating floods # news3now",
+    "label": "B-LOC I-LOC O O O B-LOC O O O O O O O O O"
+  },
+  {
+    "text": "Bottoms Up ! ( Its for a good cause \u1f609\u1f37A ) Both First Street Brewing Company and Lost Way Brewery came under one roof to make their batches of the Nebraska Strong Red Ale . Learn more about this state-wide initiative to raise money for flood victims , on",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Growing Ohio convoy delivers supplies to Nebraska : \u2018 Everybody is happy to see us \u2019",
+    "label": "O B-LOC O O O O B-LOC O O O O O O O O O"
+  },
+  {
+    "text": "Woman buys every remaining pair of shoes from closing Payless to donate to Nebraska flood victims",
+    "label": "O O O O O O O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "Impacted by flooding in Nebraska ? Here \u2019 s how to find help . Simply enter your zip code to get started .",
+    "label": "O O O O B-LOC O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Love listening to @ AMCOUNTRYCNTWN and my pal @ KixBrooks talking about helping out all those in Nebraska . Flooding has been brutal ! ! donate to @ RedCross and lets help everyone be # NebraskaStrong",
+    "label": "O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "@ movinmeat But the US is sending like 6 billion in aid to Africa to aid the flooding victims there . Nothing about PR or the recent floods in Nebraska ..",
+    "label": "O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O B-LOC O"
+  },
+  {
+    "text": "A group is sending 80,000 bottles of water to Nebraska for flood relief . Dont they have enough water already ?",
+    "label": "O O O O O O O O O B-LOC O O O O O O O O O O O"
+  },
+  {
+    "text": "Most of Nebraska is a disaster area with 95 % of the state \u2019 s population affected by flooding . According to FEMA , total economic losses are approaching $ 1B , including more than $ 400M to agriculture & more than $ 400M to public infrastructure .",
+    "label": "O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Heres an awesome @ AgDayTV story about one of our Nebraska Production Partners going above and beyond to keep his animals in feed and water despite the flooding . # realpigfarming",
+    "label": "O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "The Coors Co. donated almost 50,000 cans of water to Nebraska and Iowa for flood relief . Basically , 2100 cases of Coors . Major kudos , tho .",
+    "label": "O O O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ TheCloudFound : Here is a place you can help with horse rescue in the devastating Midwest floods :",
+    "label": "O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ kathy_kneifl : @ chefjoseandres @ WCKitchen Thanks Chef for coming to help our Nebraska flood victims .",
+    "label": "O O O O O O O O O O O O O O O B-LOC O O O"
+  },
+  {
+    "text": "Farmers Have Joined Forces To Bring Relief to Nebraska Flood Victims",
+    "label": "O O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "There to help : @ UNLExtension and @ NU_PPC are assisting in the coordination of flood cleanup and recovery in Nebraska . # Nebraska # UNL # NUforNE # NebraskaStrong",
+    "label": "O O O O O O O O O O O O O O O O O O O O B-LOC O O B-LOC O O O O O O"
+  },
+  {
+    "text": "Hey Nebraska Troops , Retired WHP Sergeant Townsend is headed to Omaha to drop off donations and supplies . So if you see the Big Red Beast rumbling down Interstate 80 say hello !",
+    "label": "O B-LOC O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Mainer heads to Nebraska to help with flooding relief :",
+    "label": "O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "Anheuser-Busch announced Monday theyll send more than 100,000 cans of water to Nebraska to help people impacted by flooding .",
+    "label": "O O O O O O O O O O O O B-LOC O O O O O O O"
+  },
+  {
+    "text": "RT @ PatCaruthers1 : @ RedRising11 @ WahpetonGuy How do we donate ? And to WHICH organization , to keep the $ designated ONLY for Nebraska ?",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O"
+  },
+  {
+    "text": "Kansas high school students collecting donations for ranchers and farmers in Nebraska who have lost so much of their livelihood to flood waters . The story at 6 on @ KAKEnews",
+    "label": "B-LOC O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Were grateful to all who have donated their time and money to help with the flooding across # Nebraska and # Iowa . This disaster has been bad news for blood donations , too . Can you help this weekend ? Find a drive near you and make an appt to # givenow :",
+    "label": "O O O O O O O O O O O O O O O O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Two U.S. Air Force Bases requiring a multi-billion-dollar cost to repair & rebuild impacts from recent storm events : Tydall AFB ( Florida ) & Offutt AFB ( Nebraska ) Natural disasters do not discriminate when causing damage .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O B-LOC O O O O O O O O O O"
+  },
+  {
+    "text": "These super-soft , comfy shirts are extra awesome knowing the profits go toward the Nebraska flood relief efforts . \u1f917 We are oNE . # NebraskaStrong # TeamTriage \u1f33D\u2764\ufe0f . Order yours to donate and rock an awesome tee \u1f449",
+    "label": "O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "People in Nebraska are drowning . Homes lost , farms washed away , animals left abandoned . As a Nation- our full focus should be on helping our neighbors in the Mid-West . Action for Nebraska , send supplies . # NebraskaStrong # NebraskaFlood",
+    "label": "O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O"
+  },
+  {
+    "text": "# Nebraska are u an individual or business owner affected by the # nebraskaflooding ? Theres help available . A # disasterrecovery center opened in # Valley today . This is one of several places you can go to for resources . # NebraskaStrong # Fremont # Waterloo # Omaha # Bellevue",
+    "label": "O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC"
+  },
+  {
+    "text": "Nebraska residents of Paradise Lakes is taking a hard hit after word is the Paradise Lakes filed bankruptcy after nearly 3 weeks ago the flood took everyones home leaving several homeless . We are blocked from accessing our lease and payments ect . by owners",
+    "label": "B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Hay ! Donations coming to Nebraska from all around the country # thefencepostnews # agnews",
+    "label": "O O O O O B-LOC O O O O O O O O O"
+  },
+  {
+    "text": "FLASH FLOOD WARNING SW JEFFERSON CO IN SE # NEBRASKA * UNTIL 230 PM CDT AT 1125 AM CDT , EM REPORTED WATER ACROSS COUNTY ROADS SW OF FAIRBURY . TSTMS WILL AFFECT THE AREA INTO EARLY AFTERNOON WITH AN ADDITIONAL INCH OF RAIN POSSIBLE AT SOME LOCATIONS . ADDITIONAL FLOODING IS LIKELY",
+    "label": "O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Next time you come to @ fontenelle4est , bring canned food item and pick a prize from our forest treasure chest ! Your food will be distributed to people in need in the Bellevue community through Eastern Nebraska Community Action Partnership ( ENCAP ) .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O B-LOC O O O O O O O"
+  },
+  {
+    "text": "Kansas @ DucksUnlimited volunteers and donors traveled to # Nebraska to see the # migration spectacle . Bob Guy Films went along . Part 1 Part 2",
+    "label": "B-LOC O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "There \u2019 s still flooding in the heartland continuing to impact things as the threat of rising waters moving further south . There \u2019 s sure to be a long-term impact due to the Nebraska flooding which goes beyond the water .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O"
+  },
+  {
+    "text": "74 counties in Nebraska declared \u2018 A State of Emergency \u2019 from flooding . But don \u2019 t worry Trump is still the worst person of all time . News media is so informative .",
+    "label": "O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Nebraska has suffered 1.3 billion in warer damage . This has been a historic disaster and has been a huge loss of crops ! Jim Dykes N Carolina",
+    "label": "B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Because of our generous monthly donors , we are sending $ 20,000 to the @ neagfoundation Disaster Relief Fund . This fund is going directly to affected ranchers . Read more here : .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "This week I \u2019 ll be caddying for Laurel , NE native Mark Calcavecchia ( @ MarkCalc ) at the @ RapiscanClassic . Together , we will donate $ 100 for each birdie to Nebraska flood first responders @ Waterloo800 and @ RedCross for disaster relief in NE . May all his putts fall ! # NebraskaStrong",
+    "label": "O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O B-LOC O O O O O O O O O"
+  },
+  {
+    "text": "Woman buys shoes for flood victims .",
+    "label": "O O O O O O O"
+  },
+  {
+    "text": "@ TheAthletic @ HuskerInSota Saw it . Loved it . Very excited . And appreciate The Athletic helping Nebraska flood victims .",
+    "label": "O O O O O O O O O O O O O O O O O O B-LOC O O O"
+  },
+  {
+    "text": "As devastating floodwaters continue to ravage Western Iowa and Nebraska , ARL staff and volunteers worked with our supporters to collect donations and bring much-needed hay to people who have lost food supplies for their livestock due to flooding .",
+    "label": "O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Our Todd Richardson ( fourth from right ) was honored at the Barristers \u2019 Ball for his efforts in making equal justice for all a reality in # Nebraska . Proceeds for the evening benefited @ nebrbar Nebraska Lawyers Foundation . # HBProBono # HBGivesBack # HBOmaha",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O B-LOC O O O O O O O O O"
+  },
+  {
+    "text": "The # flu season is done in Nebraska but over 66 flu related deaths occurred this year ; however , this is lower than last year \u2019 s numbers . # fluseason # omaha",
+    "label": "O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC"
+  },
+  {
+    "text": "To aid in flood relief efforts in Nebraska & Iowa , Chevrolet dealers from the Omaha/Lincoln metro area pulled together to Fill The Trucks . Thanks to Chevrolet , Creighton University , CHI Health Center , Ralston Arena , Omaha Lancers & Omaha Beef for being part of such a great cause !",
+    "label": "O O O O O O O B-LOC O B-LOC O O O O O I-LOC I-LOC O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O"
+  },
+  {
+    "text": "Heard through NE VOAD that @ CrisisCleanup is not being used as much as it can be in Nebraska . If you or someone you know need help to clean up your home , call the hotline . Vetted organizations monitor requests , gather teams of volunteers & and get to work # NebraskaStrong",
+    "label": "O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Well done Nebraska @ JohnDeere dealers , they have teamed-up to contribute $ 60,000 for disaster relief via @ ruralradionet",
+    "label": "O O B-LOC O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Early estimates of $ 440 million in infrastructure damage , and $ 85 million in damage to homes and businesses",
+    "label": "O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "@ jtimberlake thanks for donating to Nebraska \u2019 s relief efforts \u1f64F\u1f3fD",
+    "label": "O O O O O O B-LOC O O O O O"
+  },
+  {
+    "text": ". @ charlescityffa & Rockford FFA students will be in studio taking your donation pledges from 11-1 TODAY . Money raised will offset trip costs to Schuyler , Nebraska to help provide flood relief . Call 641-228-1000 , to give your donation pledge . You may even end up on the radio !",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "As featured on @ NBCNews , the flooding in Nebraska has destroyed most of the fencing and outbuildings of @ thatJohnCarrolls goat farm & sanctuary . Flood insurance will not cover expenses . Please donate to their gofundme ! \u1f410 # Survivor",
+    "label": "O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "For a great portion of my young adult life , I was fortunate enough to call the state of Nebraska my home . My heart goes out to # HuskerNation and all those affected by the recent flooding . If you can donate for relief funds please call 1-844-278-8555 . We are # NebraskaStrong . \u270a\u1f3fE",
+    "label": "O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Local farmers offering aid to Nebraska ( Via EYEWITNESS NEWS WBRE , WYOU )",
+    "label": "O O O O O B-LOC O O O O O O O O"
+  },
+  {
+    "text": "MillerCoors sends 100,000 cases of water to Iowa and Nebraska .",
+    "label": "O O O O O O O B-LOC O B-LOC O"
+  },
+  {
+    "text": "Seth is off to Nebraska to bring supplies to flood victims ! Thank you Spokane for your generosity \u1f64C\u1f3fB he \u2019 ll be sending me pictures when he arrives @ KHQLocalNews",
+    "label": "O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "A @ OmahaUSACE employee surveys a levee breach along the right bank of the Platte River in Saunders County , Nebraska . The Omaha District continues efforts to perform damage assessments as water recedes and access to levees becomes available . # 2019FloodFight \u1f4f7 : CPT R. Hignight",
+    "label": "O O O O O O O O O O O O O O B-LOC I-LOC O B-LOC O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "We want to continue to help everyone affected by the tragic flooding in Nebraska . We have provided a temperature-controlled trailer to the Christian Church of Waterloo to store food that will help feed flood victims . # NebraskaStrong\u1f499",
+    "label": "O O O O O O O O O O O O O B-LOC O O O O O O O O O B-LOC I-LOC O B-LOC O O O O O O O O O O O O"
+  },
+  {
+    "text": "# TrueLeaders help others in times of need . Our friends in Nebraska have recently experienced historic flooding , and the need for assistance is growing . Visit to learn about how you can help @ Nebraska4H in recovery efforts . # InspireKidstoDo",
+    "label": "O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Due to catastrophic flooding in Nebraska and surrounding states , Duncan Aviation team members came together and jam-packed a trailer full of donations and supplies to go towards flood relief efforts ! # DuncanAviation # NebraskaStrong",
+    "label": "O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Our schools and their communities have shown great courage through this disaster . The education community in Nebraska needs to continue to lend assistance in any way we can. \u201d -NRCSA Exec Director Jack Moles To donate to the NRCSA/NCSA Disaster Relief Fund , email amy @ NCSA.org .",
+    "label": "O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Statewide tornado drills taking place right now in Nebraska and Iowa . Its time to get ready for the spring 2019 storm season ! Lets all stay safe and always know what to do if a warning is issued . # newx # iawx",
+    "label": "O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Colleague , friend , and remarkable pianist @ huskermaestro continues to work through the Liszt transcriptions of Beethovens symphonies -- this time for the benefit of Nebraska farmers . If you can tune in , great . If you can donate , even better .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Even if you dont donate , at least share this for me . Thanks ! Dont forget ! Agxplore is matching up to $ 10,000 in donations made to to aid with Nebraska flood relief ! Donations close on",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "Eastern Shore Donates , Helps Victims of Nebraska Flooding -",
+    "label": "O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "@ NPR And how about the entire communities in Iowa and Nebraska that are under water and may never recover ? Will we also fund them at 100 % to ensure everyone can recover ? Please help everyone ! @ ChuckGrassley @ AOC is right . We have to do more .",
+    "label": "O O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "\u1f60A\u1f60A Feel good post of the day ! ! This convoy of trucks from North Dakota is delivering 200 tons of hay to farms affected by the flooding in Nebraska . Were sure it will be much appreciated .",
+    "label": "O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O B-LOC O O O O O O O O O"
+  },
+  {
+    "text": "@ Lumberist @ Max_TO Tell that to the people whose neighborhoods were destroyed by flooding in Nebraska , wildfires in California , hurricanes that struck south TX & FL . Puerto Rico is still suffering badly since late October 2017 because of the # Trump regime . Warmer weather ? ! Youre both utter scum .",
+    "label": "O O O O O O O O O O O O O O O O B-LOC O O O B-LOC O O O O O B-LOC O B-LOC O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "1.4 BILLION Dollars of destruction in Nebraska and Iowa Farmers lost their livestock",
+    "label": "O O O O O O B-LOC O B-LOC O O O O"
+  },
+  {
+    "text": "We quickly raised $ 1500 in Emergency Funds for this combat veteran and his young family . He cried with gratitude . He was overwhelmed by the swift response . I am incredibly humbled by our Teamwork and steadfast support of our veterans in need/crisis . Together we are unstoppable !",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Customers can now donate any amount at our registers or customer service counter to help local communities in Nebraska and Iowa devastated by flooding , and Hy-Vee will match all donations up to $ 50,000 . All",
+    "label": "O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "This Friday and Saturday in McCook & Aurora , come out and see two great events and help raise money for victims of flooding in Nebraska . # NebraskaStrong # Huskers @ McCook_NE @ mccookgazette2 @ McCookSchools @ MCCIndians @ grandislandnewz",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Someone approached me today & said they donated money towards a foundation to help those affected in Nebraska . She said she knew nothing until she saw what I shared on Facebook . It \u2019 s so sad that this isn \u2019 t being nationally televised . Most of the world has no idea what \u2019 s happening",
+    "label": "O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# mudfloods2019 told you so \u201d more to come @ realdonaldtrump summer will be Worst flooding in history , look @ Nebraska , damage surpasses 1.3 billion",
+    "label": "O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O"
+  },
+  {
+    "text": "NEBRASKA , you are AMAZING ! Youve been giving to flood victims for weeks and now youve raised $ 301,528 for @ StJude / @ StJudeResearch ! Thank you @ Y102krny for letting @ NTVNEWS be a part of this incredible Radiothon ! # ThisShirtSavesLives",
+    "label": "B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Thank you . We will donate to Salvation Army tomorrow . We have always found they are the most responsible/reliable in disbursing needed funds . Let us know if there is something else we can do . # LetsRoll # Unity",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "First Presbyterian Church is collecting items to fill cleanup buckets and hygiene kits for flood victims in Nebraska .",
+    "label": "O O O O O O O O O O O O O O O O O B-LOC O"
+  },
+  {
+    "text": "What a great relief action . Help out the areas from the massive impact huge flooding has caused to homes and farms in Nebraska and Iowa . Awesome to see a big company stepping up to assist . # NebraskaFlood # NebraskaStrong # IowaStrong",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "EAS # 48 - Nebraska SWA Week Tornado Watch via @ YouTube",
+    "label": "O O O O B-LOC O O O O O O O"
+  },
+  {
+    "text": "RT @ 4029Brett : NWA woman collecting supplies for Nebraska flood victims",
+    "label": "O O O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "2\ufe0f\u20e3 KANEKO will be taking cash donations to help the Santee Sioux Nation get their utilities fixed . Cash donations will be taken at the front desk , or visit this link :",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Could be a wet start to April - rainfall forecast over the next week has over an inch for precip potential across east central Nebraska , including # LNK , with lesser amounts for central and western Nebraska . # newx",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O B-LOC O O O"
+  },
+  {
+    "text": "Touched down in Omaha , Nebraska to survey flood damage & thank volunteers & emergency personnel . I \u2019 m joined by NE @ GovRicketts , @ IAGovernor , @ SenJoniErnst , @ SenSasse & @ RepDonBacon . The hearts of the American people are with those who have been impacted across the Midwest !",
+    "label": "O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "On this day in 1964 , an earthquake centered in Merriman , Nebraska rattled parts of southwestern # SouthDakota and the # BlackHills , causing minor damage . # SDHistory",
+    "label": "O O O O O O O O O O O O B-LOC O O O O O B-LOC O O O O O O O O O O O"
+  },
+  {
+    "text": "Friends find fridge full of beer while surveying Nebraska flood damage",
+    "label": "O O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "Never been more proud to be a part of the Ag . Community . Stopped in West Iowa for fuel and found Wisconsin folks with loads of hay and supplies headed to Nebraska to help farmers affected by the flooding . # OnWisconsin @ FabFarmBabe . @ UWMadisonCALS @ WISCTV_News3",
+    "label": "O O O O O O O O O O O O O O O O O B-LOC O O O O B-LOC O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "John Deere Dealers Team Up for Disaster Relief in Nebraska -",
+    "label": "O O O O O O O O O B-LOC O"
+  },
+  {
+    "text": "Florida Realtors DRF giving $ 25K to Nebraska flood victims # houseforsale # buyahouse # firsthomebuyer # downpaymentassistance # realestate # florida # orlando Florida Real Estate",
+    "label": "B-LOC O O O O O O B-LOC O O O O O O O O O O O O O B-LOC O B-LOC B-LOC O O"
+  },
+  {
+    "text": "A Kansas woman bought the remaining shoes - including 162 pairs of baby shoes - at a closing Payless store so she could give them to Nebraska flood victims .",
+    "label": "O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O"
+  },
+  {
+    "text": "Flood Relief Resources for Nebraska # Flood # NebraskaFlood # NebraskaStrong",
+    "label": "O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "RT @ beinlibertarian : Pssst ! ! ! ! Hey you Help us out if ya can . We are raising funds for the Nebraska Flood Relief . # Volunteerism /",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "What the true National Emergency in this country is the displacement of thousands of people in Florida , California , Omaha Nebraska and Puerto Rico who have had their homes destroyed by devastating storms which leveled everything . He should stop playing golf during this emergency .",
+    "label": "O O O O O O O O O O O O O O O O B-LOC O B-LOC O B-LOC B-LOC O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "NEBRASKA FLOOD DAMAGE TO HOUSE AND ROADS . PLEASE SHARE . Full video # nebraska # fremont # northbend # columbus # flood # flooding # FEMA",
+    "label": "B-LOC O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O"
+  },
+  {
+    "text": "Nebraska Flooding and Relief GoFundMe via @ pinterest",
+    "label": "B-LOC O O O O O O O"
+  },
+  {
+    "text": "Were looking forward to leading our first Nebraska Saving Your Family Treasures Workshop tomorrow in Lincoln ! Come join us to learn how to preserve important damaged belongings . Cant make it ? Well be back on Sunday ! # MidwestFlooding @ HistoryNebraska @ MorrillHallUNL",
+    "label": "O O O O O O O B-LOC O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "@ realDonaldTrump Nebraska , Iowa , Wisconsin , Missouri , North Dakota declared states of emergency due to catastrophic climate change related flooding . Neither Democrats or Republicans are talking about . Now here \u2019 s the question : why ?",
+    "label": "O O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Im raising money for Flood victim ( Nebraska ) . Click to Donate : via @ gofundme",
+    "label": "O O O O O O O B-LOC O O O O O O O O O"
+  },
+  {
+    "text": "RT @ billboard : Justin Timberlake ( @ jtimberlake ) pledges help for Nebraska flood victims during Omaha show",
+    "label": "O O O O O O O O O O O O O B-LOC O O O B-LOC O"
+  },
+  {
+    "text": "We \u2019 re up to almost $ 3,500 in donations . This expires tonight .",
+    "label": "O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Nebraska Broadcasters Association member radio and TV stations came together last Friday to hold flood relief drives that yielded $ 441,919 in donations to the American Red Cross # WeAreBroadcasters",
+    "label": "B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "More relief for flooded Nebraska farms from Northwest OhioK-100 Proud to be part of the Farm Fam : )",
+    "label": "O O O O B-LOC O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Salina nurses volunteer in Nebraska to assist with flood relief !",
+    "label": "O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "The death toll has reached 370 in flood-hit # Kerala as two more deaths were reported today morning Catch live updates here # KeralaReliefFund # KeralaFloods # KeralaFloodRelief",
+    "label": "O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Inka No more Discussions \u2713 Kerala minister responds on # Prabhas 1cr donation to Kerala floods & says Malayalam actors must make # Prabhas as role model \u1f60E # KeralaReliefFund # KeralaFloodRelief # KeralaDonationChallenge # savekerala",
+    "label": "O O O O O B-LOC O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "@ snapdeal @ Snapdeal_Help @ SnapdealTech @ 1kunalbahl @ EcomExpressIn Order id : 23291385013 . Since Kerala is affected with flood gave my friends address ; Recieved damaged item so replacement request initiated . Courier not contacted # badservice # snapdeal # ecomexpress",
+    "label": "O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": ". # ThalapathyVijays Donation For # KeralaFloods ! He Distributed 3 Lakhs Each To His # VMI Fanclubs In 15 Districts & Delivered The Things Through 15 Lorries To The 12 Affected Districts In # Kerala ! @ actorvijay @ BussyAnand @ Jagadishbliss # Thalapathy # Vijay # KeralaFloodRelief",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Im volunteering on duty in Disaster Management Control room at Cochin collectorate . Anybody need help Please call my personal no also .. - Sreejith M Sathian # KeralaFloods Mob : 8086058496",
+    "label": "O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "@ BloodDonorsIn @ damyantig @ silverlightgal @ tinucherian @ Mohanlal @ parvatweets @ mammukka @ Benny_Dayal @ sureshnmenon @ dulQuer @ Priya_Menon @ ikaveri @ sidin @ TheRestlessQuil Contact officers coordinating different aspects of food relief are as follows : Medicines & health personnel- Rajeev Sadanandan ACS +91 98688 29495 Health control room 1800 1231 454 # keralaFloodrelief",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# IndiaForKerala Items preferred Bathroom cleaning stuff Dettol , Sanitary pads , Napkins Blankets , kids and baby wear Bed Sheets Ready to eat canned foods Medicines # Keralafloods",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Salute to all the superheros \u1f64F\u1f3fD\u1f44F\u1f3fD who are working tirelessly in names of Army , Navy , Air force , govt employees , volunteers , politicians , students , especially the Real heros fishermen\u1f64F\u1f3fD & many more helping keralaties during # Keralafloods # KeralaSOS",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ rutherfordnaidu : Srimanthudu @ urstrulyMahesh donated 25 Lakhs towards the Kerala CM Distress Relief Fund\u1f64F\u1f44C # KeralaFloodRelief",
+    "label": "O O O O O O O O O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "# KeralaFloods : 21-Year-Old College Student Hanan Hamid , Trolled For Selling Fish , Donates Rs 1.5 lakh to CM \u2019 s Relief Fund . Hats Off to U # Hanan \u1f44F # Meem4Kerala",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "India has refused to accept overseas donations for flood relief in Kerala , Thailands Ambassador to India Chutintorn Sam Gongsakdi has said .",
+    "label": "O O O O O O O O O O O B-LOC O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "@ narendramodi Your prompt response is highly appreciable PM Modi ! HM @ rajnathsingh sanctioned 100 crore immidiate relief then released another 320 crores & now youve released another 500 crores today that makes it 920 crores against the demand of 1000 crores . # KeralaFloodRelief # KeralaFloods",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "FIRST TEMPORARY SHELTERS IN KERALA FOR FLOOD AFFECTED Bangalore Cares for Kerala undertakes the responsibility to build temporary shelters for all the 520 families who lost houses in flood in Wayanad Dt -",
+    "label": "O O O O B-LOC O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "RT @ TheWeekLive : With eight more deaths reported on Sunday , the total toll in last three days have risen to 26 # Ker",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Bollywood Khans donated crores to Pakistan floods now silent on Kerala floods . Proud of u Prabhas",
+    "label": "O O O O O B-LOC O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "We should contribute whatever possible we can to rebuild the lives of the flood affected people in Kerala . It is heartbreaking to see people suffering . Please share and do your bit ! # KeralaFoods",
+    "label": "O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# Kerala was put on # highalert for three weeks as two more people succumbed to # ratfever on Monday , taking the death toll to nine in the past three days following unprecedented # floods . # nation | # KeralaFloods | # ommcomnews",
+    "label": "O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "MEA : Contributions to the Prime Ministers Relief Fund and the Chief Ministers Relief Fund from NRIs , PIOs and international entities such as foundations would , however , be welcome . # KeralaFloods",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": ". @ narendramodi declining UAE monetary aid for # KeralaFloodRelief n releasing insufficient Funds to # RebuildKerala is a case of \u25fc\ufe0fCARDINAL SIN \u25fc\ufe0fPOLITICAL HARAKIRI \u25fc\ufe0fACT OF INHUMANITY \u25fc\ufe0fTERRIBLE GOVERNANCE \u25fc\ufe0fGOVTs ASSAULT ON CITIZENS \u25fc\ufe0fMENTAL BANKRUPTCY OF BJP GOVT",
+    "label": "O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Comrade Saji Cherian , our MLA from Chengannur constituency who is participating in the flood relief work in Kerala . Our resolve to build New Kerala is getting strengthened by active support of the people .",
+    "label": "O O O O O O O O O O O O O O O O O O B-LOC O O O O O O B-LOC O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ ShashiTharoor : NGO AnboduTrivandrum is collecting & distributing relief material in Thiruvananthapuram # KeralaFloods",
+    "label": "O O O O O O O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "RT @ dinesh_rajini : Anyone please help them . # KeralaSOS , # KeralaFloods , # KeralaFloods , # Kerala , # KeralaFloodRelief",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Centre is rushing 30 specialist doctors , 20 General Duty Medical Officers and 40 Malayalam speaking nurses to flood-hit # Kerala . # KeralaFloods",
+    "label": "O O O O O O O O O O O O O O O O O O O O B-LOC O O O"
+  },
+  {
+    "text": "RT @ hasanfaizulkhan : Lets start working in flood affected area .. # KeralaFloodRelief # KeralaFloods2018",
+    "label": "O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "If you are in confusion whether to donate for Kerala floods/coorg , just think as if it happened to you . # joyofgiving gives birth in you . # KeralaFloods",
+    "label": "O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Meet Commander Vijay Varma of the # IAF , who rescued pregnant women in the # KeralaFloods . Speaking to @ shobhawarrier , he says , In an ordinary situation , I would not have done that operation at all because it was extremely risky . But this was an emergency .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "I did my part for our fellow Indians . # Kerala # KeralaFloodRelief # KeralaFloods # donate # whatyoucan",
+    "label": "O O O O O O O O O O B-LOC O O O O O O O O"
+  },
+  {
+    "text": "Excellent . And now a lot of rehabilitation work follows this gesture ! As the dust settles , a lot more work begins on the ground by us , in addition to our ongoing efforts ! # KeralaFloods2018 @ apollotyres",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Fishermen from different parts of Kerala have taken a day-off from their jobs and are helping in the relief and rescue operations . | # SOSKerala # KeralaFloods",
+    "label": "O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# Keralafloods What to expect when none of the 61 dams have an Emergency Plan ? The reason behind big disaster . 100 % literate State lacks education .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "@ asadowaisi # AIMIMs Medical Relief Worth \u20b925Lakhs For Flood Effected People Of # Kerala Includes Antibiotics Anti-fungal Analgesics Cardiac Diabetic Gastric & Respiratory care supplements ointments for adults & baby care It will be air-shipped to Kerala Efforts of @ akbarowaisi2",
+    "label": "O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O"
+  },
+  {
+    "text": "More than 220,000 people in Kerala , India have now been displaced by MASSIVE FLOODS . 100-year events are happening everywhere , everyday . California : WORST WILDFIRES ever . Japan : HEAVIEST RAINFALL ever . Eastern Australia : WORST DROUGHT ever . # KeralaFloods # ClimateChange",
+    "label": "O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O B-LOC O O O O O B-LOC O O O O O O B-LOC O O O O O O O O O"
+  },
+  {
+    "text": "Urgent Requirement for # KeralaFloods Sanitary Pads required in Bulk for women of Kerala 90 relief centres in Trivandrum have asked for it urgently Please donate immediately & liberally Call : 8884431226/ 7204508839 Material needs to be despatched in the evening # Donate4Kerala",
+    "label": "O O O O O O O O O O O O O B-LOC O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "My Eid Lunch today courtesy @ indiannavy Community Kitchen in Kochi . On menu Rice Dal and the yummiest payasam ever made . The kitchen has fed 1 lakh people displaced by the # KeralaFloods",
+    "label": "O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ rameshlaus : Ace Dir @ ARMurugadoss has donated \u20b9 10 Lakhs to # KeralaReliefFund \u1f44F\u1f44F @ RIAZtheboss",
+    "label": "O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "* * * WHEN FISHERMEN TURNED HEROES * * * The Kerala State Govt . has said that more than 2,800 fishermen have been involved in the relief effort & evacuated 80,000+ Peoples . # RebuildKerala # KeralaFloods",
+    "label": "O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "I thank the @ MahilaCongress leadership and workers for their valuable contribution towards flood relief efforts in Kerala . Congress party will continue to stand firmly behind the people of the state",
+    "label": "O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# KeralaFloods : Rations , eatables , clothes , blankets , drinking water distributed to the flood-affected people by @ CISFHQrs # KeralaFloodReliefs",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "He is not a Godman ! He is a \u1f608 Devil ! Such people who help on the basis of religion & spread hatred via religion should be put behind bars ! If he was drowning in the floods of Kerala & the safest place to be was a dargah or mosque , this man would run there , first ! Swine !",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Yusuff Ali M.A. , the owner of India \u2019 s largest mall , has donated Rs 10 crores to for Kerala flood relief . He also helped after the Latur and Bhuj earthquakes , the 2004 tsunami and 2013 Uttarakhand floods .",
+    "label": "O O O O O O O B-LOC O O O O O O O O O O O O B-LOC O O O O O O O O B-LOC O B-LOC O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "Requirement of things in DD Global Village , # Aluva - 1 . Drinking Water - For 100 Occupants 2 . Sanitary Napkins - 20Women 3 . Baby Diapers 4 . Rice 5 . Cereals 6 . Grains 7 . Sugar 8 . Tea Powder 9 . Skimmed Milk Powder 10 . Atta # KeralaFloodRelief # WeAreKerala # SupportKerala",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "MASHAV and @ IsraelMFA joined efforts to assist the people of Kerala in Southern India following the devastating floods . The Consulate General of @ IsraelBangalore delivered a first truck carrying products & supplies to the local authorities # KeralaFloodRelief",
+    "label": "O O O O O O O O O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# BhopalWithKerala Here is the list of various collection centres at Bhopal where you can donate materials for the flood victims of Kerala . The collection center at AIIMS is at SU Office . Contact Sajith ( 9400480126 ) if you wish to drop your donations at AIIMS . # KeralaReliefFund",
+    "label": "O O O O O O O O O O O B-LOC O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "One man who is always there and has big heart is the one and only @ BeingSalmanKhan he has donated a whopping 12 crores for # KeralaFloods # KeralaFloodRelief",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "As a relief measure to the people of severely flood hit Kerala , 9 lakhs litres of filtered drinking water sent to kerala by a water special train from Ratlam to Palghat.All 15 tanks filled with potable water & quality of water of each tank tested # helpinghand # KeralaFloodRelief",
+    "label": "O O O O O O O O O O O B-LOC O O O O O O O O O O B-LOC O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "For the second day in a row , # MagicBus Youth Mentors have been cooking and distributing food to Relief Camps in Kochi . We have money for provisions for tomorrow but not after that . If anyone wants to help , please reach out . Every bit counts . # KeralaFloodRelief",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Donated cheque of ten thousand rupees in Chief Ministers relief fund Kerala . I appeal people of dhanbad to contribute in Chief Ministers relief fund Kerala to help the flood victims @ cmojhr @ IASassociation @ teamjharkhand",
+    "label": "O O O O O O O O O O O B-LOC O O O O O O O O O O O O O B-LOC O O O O O O O O O O O"
+  },
+  {
+    "text": "Did @ Cristiano Ronaldo Donate 77 Crore for @ Kerala Flood ? If yes , everyone should # PROUD Of him .",
+    "label": "O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O"
+  },
+  {
+    "text": "As Kerala battled the floods , a team from Odisha rushed to rescue thousands stranded ; now engaged in relief measures for lakhs of people in shelters . Odisha stands in solidarity with the people of Kerala in these difficult times . # KeralaFloods",
+    "label": "O B-LOC O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O B-LOC O O O O O O O"
+  },
+  {
+    "text": "This is cruel @ timesofindia . 17 people got killed today itself and death toll is close to 80 . Development as in all other parts in the country have environmental impacts . # keralaflood is linked with # globalwarming as well . This is not the time for a blame game .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ nparama1951 : @ alok_bhatt Seva Bharathi Kerala-doing Actual seva in flood hit areas and so , I donated to them only",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Should Indians stop donating for # KeralaFloods now that Shashi Tharoor is suggesting that UNs largesse is there for his asking ? Shashi Tharoor Knocks on UN \u2019 s Door for Kerala Flood Relief",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "Earlier # Apple also donated \u20b9 7 Crore for Kerala Flood Relief . # Kerala # KeralaFloodRelief # GoogleForIndia",
+    "label": "O O O O O O O O O B-LOC O O O O B-LOC O O O O"
+  },
+  {
+    "text": "RT @ CAChirag : Should Central Govt Accept Financial help of 700 Cr from UAE ? # KeralaFloods # UAE # Kerala",
+    "label": "O O O O O O O O O O O O O O O O O O O O O B-LOC"
+  },
+  {
+    "text": "194 deaths , Rs 21,000cr loss : Flood fury continues to haunt Kerala",
+    "label": "O O O O O O O O O O O O B-LOC"
+  },
+  {
+    "text": "So proud of @ SalmanNizami_ & his team- this is leadership , this is humanity & this is true nationalism ; the lady is a dalit- from Kerala lost everything in floods , Salman helped her in cleaning also assured aid for rebuilding the house . Salute ! # KeralaFloods # KeralaFloodRelief",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "A Family Need urgent Help . contact number:8113889990 , Chattukulam Siva Temple Rd , Kadungalloor , Aluva , Kerala 683511 # KeralaFloods",
+    "label": "O O O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O O O"
+  },
+  {
+    "text": "Donated successfully a little amount of rupees 20 to Kerala CMs Distress Relief Fund through Paytm . Doesnt matter how big the amount is but valued contributions is necessary . @ CMOKerala # KeralaFloods # KeralaFloodRelief # digitalindia # Donate4Kerala",
+    "label": "O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "All the states are donating for Kerala .. ANY NEWS UPDATE HOW MUCH WB @ MamataOfficial IS DONATING ? Please let me know if you have the information . @ derekobrienmp",
+    "label": "O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Video of Sudha Murty Aiding Kerala Flood Relief Efforts Goes Viral",
+    "label": "O O O O O B-LOC O O O O O"
+  },
+  {
+    "text": "# Kerala needs help plz do as much as u can if not donation spread the news across and create awareness for sending across money , food , water clothes and medicines . # KeralaFloodsHelpNeeded # KeralaFloodRelief # KeralaFloods # KeralaDonationChallenge",
+    "label": "O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# APNGOs Announced 20 Crores Donation For # Kerala Floods | # MahaaNews",
+    "label": "O O O O O O O O B-LOC O O O O"
+  },
+  {
+    "text": "RT @ CensorReports : Rebelstar Prabhas donated 25lks to # KeralaReliefFund",
+    "label": "O O O O O O O O O O O"
+  },
+  {
+    "text": "@ IAF_MCC is sending its coveted # GarudCommandoForce to relief ops in # Chengannur # KeralaFloods # KeralaFloodRescue # strivesurvivetogether",
+    "label": "O O O O O O O O O O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "Salem @ ikamalhaasan Fans provided materials for # KeralaFloods # KeralaReliefFund # Kerala # KeralaFloods2018 # KamalHaasan",
+    "label": "O O O O O O O O O O O O B-LOC O O O O"
+  },
+  {
+    "text": "Ernakulam , # Paravur Vadakkekkara Landmark : behind mohammaden LP School Current situation : no food , no water , health deteriorated How many members : 2 families How many kids : 1 child Numbers : 9447083545 , 9400648562 # KeralaFloods # KeralaSOS @ nishthvanth @ KoYiKkoDaNn",
+    "label": "B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# LoveInAction # SSSSOIndia # KeralaFloodRescue Packing of relief materials to be taken to # Pandalam consisting of Materials include Rice , lungies nighties , tooth paste , brush , cleaning materials , bleaching powder , biscuits , kids dresses and more .. # WEAREALLONE",
+    "label": "O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# KeralaFloods2018 # OPRAHAT @ IndiaCoastGuard Team rescued 127 marooned people from the flooded homes of East # Kadangaloor including a 10 day old infant and also a mother with advanced pregnancy today . All shifted to safety @ DefenceMinIndia @ CMOKerala @ DG_PIB @ SpokespersonMoD",
+    "label": "O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Use a clean cloth to harvest rain water and use till rescue team arrive with support . If you feel this is a good tip please do share and spread to wider community # KeralaFlood # KeralaFloods2018 # SurvivalTip",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "There is new rescue camp in # cherthala needs all the essential items . Please help . Verified info . 2:05 Aug 18 . # KeralaFloods # KeralaFloodRelief",
+    "label": "O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "TVM UPDATE : SUPPLIES NEEDED AT KINFRA APPAREL PARK READ TO EAT FOOD PACKETS AND WATER NEEDED URGENTLY # KeralaFloods # KeralaFloods2018 # DoForKerala # KeralaFloodRelief # KeralaSOS # KeralaFlood # KeralaReliefFund # Kerala # KeralaFloodRescue",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "The donations to Kerala Chief Minister \u2019 s Distress Relief Fund ( CMDRF ) has crossed the Rs 1,000-crore , mark . # KeralaFloods # KeralaReliefFund @ vijayanpinarayi",
+    "label": "O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "The # Asiatic Society Of # Mumbai Employees Union ( # AITUC ) donated Rs.2500/- for the # Kerala # Flood Relief Fund",
+    "label": "O O O O O O B-LOC O O O O O O O O O O O B-LOC O O O O"
+  },
+  {
+    "text": "# KeralaFloods : Here \u2019 s how tech companies like @ Google , @ Facebook , @ Paytm , @ VodafoneIN are helping the rescue operations",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ NeenaAnnaa : Kerala police to adopt 62,000 flood affected families # RebuildingKerala # KeralaFloodRelief news source @ News18Kerala :",
+    "label": "O O O O B-LOC O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Rohingya Refugees extend helping hand to Kerala Flood Victims",
+    "label": "O O O O O O B-LOC O O"
+  },
+  {
+    "text": "Rescue operations underway in # Nelliampathi , # Palakkad whr roads are disconnected due to rains and landslides . Supplies r being taken by foot to people who r cut off frm rest of # Kerala # KeralaFloods # KeralaFloodRelief # KeralaFloodsRelief # KeralaSOS",
+    "label": "O O O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O"
+  },
+  {
+    "text": "RT @ FarrukhFL : People Call her BITCH But She is Rich in HEART Sunny Leone donated 5 Crore for Kerala Flood",
+    "label": "O O O O O O O O O O O O O O O O O O O O B-LOC O"
+  },
+  {
+    "text": "In Kerala , where over 165 have died and lakhs have been displaced after the states worst flood in a century . All they require is your support through Prayers . Were doing our bit , are you ? # KeralaFloods # KeralaRelief # KeralaFloodRelief",
+    "label": "O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "The JNU community is working so hard to collect material and money for the Kerala floods . True nationalism . # KeralaReliefFund",
+    "label": "O O O O O O O O O O O O O O B-LOC O O O O O O O"
+  },
+  {
+    "text": "My brothers , aunt and Grand-Parents are stuck in Moozhikkakadavu_pariyaram , Chalakkudy . Location - 10.308208,76.351140 . Phone - +918075659446 . Please RT so some1 can help them . Grandparents health getting worse . Havent had proper food in 2 days . # KeralaFloods # KeralaSOS",
+    "label": "O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ V6_Suresh : . @ tarak9999 has announced 25 Lakh Rupees towards Kerala CM Relief Fund. # KeralaFloodRelief \u1f44F",
+    "label": "O O O O O O O O O O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "RT @ VMBJP : Heartfelt gratitude to @ Dev_Fadnavis for his concern for # Kerala and timely assistance to # KeralaReliefFund",
+    "label": "O O O O O O O O O O O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "Kerala editions of @ NewIndianXpress today . It could nit be distributed in many flood-hit areas but then reading the newspapers definitely not the priority in those areas . Our reporters are also doing their bit to bring the relief teams to those stranded in the marooned towns .",
+    "label": "B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ EBCNEWSONLINE : # KeralaFloods death toll reached 106 with nearly 150,000 left homeless",
+    "label": "O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ abpnewstv : # KeralaFloods : # UAE denies offering Rs 700 crore for relief amid Centre-state row over foreign aid",
+    "label": "O O O O O O O O B-LOC O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Rahul Gandhi ji To Visit Flood-Hit Kerala Tomorrow - NDTV @ RahulGandhi @ INCIndia # KeralaFloods # RebuildKerala # KeralaFloodRelief",
+    "label": "O O O O O O B-LOC O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# KeralaFloods Stepping up its efforts to help people in flood-ravaged Kerala , the Punjab government Saturday dispatched one lakh food packets from Ludhiana",
+    "label": "O O O O O O O O O O O B-LOC O O B-LOC O O O O O O O O B-LOC"
+  },
+  {
+    "text": "# KeralaFloods The houseboats of the backwaters of Alappuzha have become homes for many flood displaced people in Kuttanad .",
+    "label": "O O O O O O O O B-LOC O O O O O O O O O B-LOC O"
+  },
+  {
+    "text": "Hats off to @ MyTeam_11 for Donating for the Kerala Flood Victims # DilSeViruGiri @ virendersehwag",
+    "label": "O O O O O O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "Muslims and Christians taking refuge in temples will be given tasty payasam and sent home after their well-being is assured . Meanwhile Hindus given shelter in churches and mosques will have to listen to sermons and azaan and attempts will be made to convert them . # KeralaFloods",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Pamba river near chengannur # Thiruvalla before and after kerala floods # KeralaFloods # Keralafloods2018",
+    "label": "B-LOC I-LOC O O O B-LOC O O O B-LOC O O O O O"
+  },
+  {
+    "text": "RT @ pahayan_ : Cusitilekk immediate food requirements Launch kazhichittillaa Urgent # keralaflood",
+    "label": "O O O O O O O O O O O O O"
+  },
+  {
+    "text": "2 ) A team of swayamsevaks takes care of providing food and shelter , especially in Kendriya Vidyalayas and other schools where many have taken refuge . # Sewavibhag # KeralaFloodRelief",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ satishacharya : Military to the rescue , again ! # KeralaFloods # CoorgFloods",
+    "label": "O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Due to gates and big walls in some places , they couldnt move the boat near to the house . Instead they tie a rope from boat to the house and give life jackets for the inmates , with the help of fishermen they reach the boat . # KeralaFloods ( 11/n )",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "36 . The Rs 6,000 crore aid was allotted to Nepal when the flood affected Kerala was only Rs 650 crore . The aids to Kerala flood victims from United Nations and the foreign countries were blocked . 37 . High inflation . Peoples are in greate trouble due to price hike 25/n",
+    "label": "O O O O O O O O O O B-LOC O O O O B-LOC O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# KeralaFloods Relief Housing . This technology is suitable for # rehabilitation housing needed for the lakhs of people displaced by the floods . Fast , Solid , Low Cost . # KeralaFloodRelief # affordableHousing # construction",
+    "label": "O B-LOC I-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# SDPI Kerala RG Rescue team is doing a fabulous rescue work , one can not measure their service in words . We often heard lots of propagandas against them but this was their actual work on field.Lots of love from Keralites to brothers in your team . # KeralaFloods # KeralaFloodRelief",
+    "label": "O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Our # Bengaluru team in full swing , ensuring all relief material is reaching the flood-affected immediately . We thank @ AmazonNews_IN for generous support during this hour of need . Do your bit , help rehabilitate # Kerala : # DoItForKerala # KeralaFloods",
+    "label": "O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O"
+  },
+  {
+    "text": "@ elonmusk @ MeYessar Everyone pls our state kerala in india is under floodsa million house has been destroyedwe need ua help .. pls donate generously to Chief ministers relief fundi request all of eu to check the news about # KeralaFloods pls help us",
+    "label": "O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ vasudha_ET : Gujarat CM Vijay Rupani announces Rs 10 crore assistance # KeralaFloods",
+    "label": "O O O O B-LOC O O O O O O O O O O"
+  },
+  {
+    "text": "# WATCH : Exclusive OTV on-ground coverage from one of the largest relief camps set up in a school in Kanichukulangara of Alappuzha district # Kerala . The school is currently sheltering around 5,500 people affected in # KeralaFloods # OTVInKerala # OTVExclusive",
+    "label": "O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC I-LOC O B-LOC O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Death toll rises to 29 , over 54,000 displaced due to # KeralaFloods . @ CMOKerala Pinarayi Vijayan appeals for contribution to CMs relief fund . And International Trainer of Art of Living Shri @ DhananjaySpeaks doesnt want you to donate to relief fund because",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# RF conducted 2 livestock camps at the hamlets of Pallippad village , Karthikapally taluk , Alappuzha District , distributing 183 cattle feed packets and 65 medicine kits . # RFForKerala # KeralaFloods",
+    "label": "O O O O O O O O O O B-LOC I-LOC O B-LOC I-LOC O B-LOC O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Dear Muslims On this auspicious Eid-ul-Azha , instead of sacrificing animals , donate some amount of money and help people of Kerala . There can \u2019 t be a greater \u2018 Qurbani \u2019 than helping your fellow countrymen in their worst time # KeralaFloods .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# KeralaSOS Flood situation in Kerala is critical now CM says death toll mounted to 324 13 our of 14 districts More than 2lakh people in 1,500 relief camp 23 IAF choppers , 330 boats , 10 Army columns placed in rescue operation # WithKerala",
+    "label": "O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "As water recedes , # Kerala stares at # leptospirosis outbreak , warn doctors ; public health is the next big worry # KeralaFloods @ DeccanHerald @ anand_journo @ coolcarni @ shemin_joy @ Ashtripathi13 @ a2n1n1a2 @ Ashtripathi13 @ kumarprakash",
+    "label": "O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Generous gesture : Maharashtra State Road Transport Corporation headed by Shiv Sena leader and transport minister Diwakar Raote donated Rs 10 crore to the CMs Distress fund for # KeralaReliefFund . This is 50 % of what Fadnavis announced as state aid to Kerala . # KeralaFloods",
+    "label": "O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O"
+  },
+  {
+    "text": "Khalsa Aid to the forefront ! !",
+    "label": "O O O O O O O"
+  },
+  {
+    "text": "9 RSS karyakarthas sacrificed their lives in Kerala Flood rescue operations . Pranam brothers for your selfless service.\u1f64F # KeralaFloods # keralafloodrelief @ RSSorg",
+    "label": "O O O O O O O B-LOC O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Essential food supplies are being sent . Every contribution counts . Donate here # KeralaReliefFunds",
+    "label": "O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# KeralaFloods kills hundreds of people and over 2 Lakh displaced . Fresh rain alert issued keeping the flood situation grim .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "There is a # food requirement for food for 500 people at L.P school Kottappuram , # Aluva . # KeralaFloodRequest # KeralaFloodRelief Tagging @ goonj @ vinayaravind @ KaapiRight @ Akkyllees @ akosotto @ crazytwism @ joele__ @ vip_nair @ thebhavyeah @ iKamranShahid # KeralaSOS",
+    "label": "O O O O O O O O O O O O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "@ oiclinsurance Probably the best thing the company did since inception . Cheers . @ CMOKerala please send this cheque at the earliest to the bank and get it cleared otherwise they might cancel it in backdrop . # KeralaFloodRelief",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Madhya Pradesh police donated Rs 1.31 crore to Kerala Chief Ministers distress relief fund . All police personnel of state will donate 1 days salary for same : Madhya Pradesh Director General of Police ( ANI ) Here \u2019 s how you can help # KeralaFlood victims :",
+    "label": "O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# KeralaSOS Kadavantra regional sports club , ( kadavantra ) has excess food so in case some other camps which are in need can contact them Phone no : -9645221111 , 9061110000 # kerala # KeralaFloods # KeralaFloodRelief # KeralaFloodRescue @ CMOKerala # KeralaReliefFund # verified",
+    "label": "O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O"
+  },
+  {
+    "text": "Shahrukh Khan didnt tweet , Shahrukh Khan didnt brag , Shahrukh Khan didnt go to media . Shahrukh Khan donated 5 crore for Kerala flood victims- silently . Something @ Paytm head shud learn- Charity is not Business , its a sign of humanity ! We love you @ iamsrk bhai !",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "It was such an honour to write this article on the amazing work these women have done to rescue # KeralaFlood victims . I can \u2019 t believe Kudos @ SaginaWalyat @ NSOOD6 @ PrachetaB @ shilpajn @ PranayManjari @ JinCVarghese",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# KeralaFloods # IndiaForKerala \u26a1\ufe0f Death toll exceeds 400 as Kerala floods relief operations continue \u201d @ SouleFacts @ SadhguruOnline @ PMOIndia @ rajnathsingh @ SushmaSwaraj @ CMOfficeAssam",
+    "label": "O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ _RKSumit : @ PerennialCold @ AgentSaffron Kerala govt donated 5 crores to Pakistan for flood relief in 2010 .",
+    "label": "O O O O O O O O B-LOC O O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "Come out Bengaluru , Help Kerala , Kodagu In Phase 2 # SOSKerala # SOSKodagu Team is encouraging every Bengalurean to come out of the house & help collect or donate relief material for flood victims . 1 ) You can JOIN teams active in ur location 2 ) You can DONATE items required",
+    "label": "O O B-LOC O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "These camps in/around Vaikom are very short of all supplies . Can anyone help ? 1 . Asramam high school , 1200 people contact - 8129435349 2 . St little Theresas school , Vaikom town - 140- 9847590275 ( Ajin ) ( contd ) # KeralaFloodRelief # RebuildingKerala",
+    "label": "O O O B-LOC O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Thats a @ WaterOam purifier , shipped from .sg , by several well-wishers , and carried around flood affected villages by @ hvinayan , @ SamirDayalSingh , and Jitin , providing clean drinking water to many households . # KeralaFloods",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Please help our people who are in need of support to rebuild their homes . Help Kerala to bounce back . Please RT ! # KeralaFloods # KeralaFloodsRelief",
+    "label": "O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O"
+  },
+  {
+    "text": "Thirty-three more people died on Saturday , taking the overall death toll to 222 . If you are affected by the Kerala floods or know someone who needs help , kindly use or pass on these emergency helpline numbers . Get LIVE updates on # KeralaFloods here :",
+    "label": "O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "How # KeralaFloodRelief donations are administered at Chief Ministers Disaster Relief Fund . Initial Loss estimates are above \u20b920000 crore ( 2.7B $ ) and your support is needed to rebuild lives and livelihoods Donate at Get clarity and Fight Propaganda",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# KeralaSOS Rain mayhem in Kerala : Residents rush to relief aid centers ; citizens donate food and medical supplies . # ITVideo More videos :",
+    "label": "O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# KeralaFloods The IAS officers of Tamil Nadu will contribute one day \u2019 s salary towards flood relief : Tamil Nadu IAS officers Association president PWC Davidar @ timesofindia",
+    "label": "O O O O O O B-LOC I-LOC O O O O O O O O O O O B-LOC I-LOC O O O O O O O O"
+  },
+  {
+    "text": "Flood Warning for parts of # Loudoun : SOME LOCATIONS THAT MAY EXPERIENCE FLOODING INCLUDE LEESBURG , LANSDOWNE , PURCELLVILLE , MIDDLEBURG , OATLANDS , BELMONT , HAMILTON , SAINT LOUIS , PAEONIAN SPRINGS , GLEEDSVILLE , WATERFORD , LUCKETTS , ALDIE , PHILOMONT , LINCOLN AND HUGHESVILLE .",
+    "label": "O O O O O O B-LOC O O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC I-LOC O B-LOC I-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O"
+  },
+  {
+    "text": "The body of 39-year-old Eddison Hermond was found by searchers scouring the riverbed near a historic Maryland town that has been ravaged by destructive flash flooding .",
+    "label": "O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ KCCINews : State of emergency declared in Maryland after heavy rain causes flooding",
+    "label": "O O O O O O O O O B-LOC O O O O O"
+  },
+  {
+    "text": "Authorizing the National Guard to respond to Ellicott City , Maryland tonight where flash floods have inundated the town . Residents should stay in their second stories until rescuers can safely respond . Video via @ JeremyHarrisTV",
+    "label": "O O O O O O O B-LOC I-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Ellicott City shop owner says missing Guardsman was trying to save her when he was swept away in flood",
+    "label": "B-LOC I-LOC O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Flash floods ravage Maryland town : A state of emergency was declared in Howard County , as a massive storm drenched the Baltimore region , triggering flash floods in Ellicott City and leaving one person missing .",
+    "label": "O O O B-LOC O O O O O O O O O B-LOC O O O O O O O O B-LOC O O O O O O B-LOC I-LOC O O O O O O"
+  },
+  {
+    "text": "EXTREME WEATHER . Desperate search for a National Guardsman now underway after he was swept away helping with rescues in the Maryland floods",
+    "label": "O O O O O O O O O O O O O O O O O O O O O B-LOC O"
+  },
+  {
+    "text": "REST IN PEACE : Sgt . Eddison Hermond , a member of the Maryland National Guard and an Air Force veteran , was helping rescue a woman and her cat when the rushing waters swept him away during Sundays flooding in Ellicott City , MD",
+    "label": "O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O"
+  },
+  {
+    "text": "39-year-old Eddison Hermond disappeared late Sunday afternoon , following torrential rains that prompted destructive flash flooding . He was a veteran of the U.S. Air Force and a sergeant in the Maryland Army National Guard ,",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O B-LOC O O O O"
+  },
+  {
+    "text": "# INPICTURES : Flash flooding in Maryland :",
+    "label": "O O O O O O B-LOC O"
+  },
+  {
+    "text": "The devastating flooding in Maryland over Memorial Day Weekend not only sent a wall of water through downtown Ellicott City , Md. , but reignited a debate over global warming and floods .",
+    "label": "O O O O B-LOC O O O O O O O O O O O O O B-LOC I-LOC O B-LOC O O O O O O O O O O O"
+  },
+  {
+    "text": "Following the devastating flash floods in Maryland , weve created a centralized hub for the verified GoFundMes that are providing relief . Heres how to help :",
+    "label": "O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Tragic . A whole car full of dead or seriously injured young people .",
+    "label": "O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Body found of man who disappeared amid # Maryland flooding - May 29 @ 3:13 PM ET",
+    "label": "O O O O O O O O B-LOC O O O O O O O O"
+  },
+  {
+    "text": "Searchers locate body of guardsman who went missing in Maryland floods * * - ABCNEWSVideosVideo News Clip\u1f4fA",
+    "label": "O O O O O O O O O B-LOC O O O O O O O"
+  },
+  {
+    "text": "A Bat fan friend of mine lost 80 % of his possessions in the Ellicott City , Maryland flooding a week ago . This area was declared a national disaster area . His renters insurance isnt going to cover the tens of thousands of",
+    "label": "O O O O O O O O O O O O O O B-LOC I-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Search crews in Maryland are trying to find a National Guardsman who was whisked away by flash floods while trying to help someone 9 & 10 News",
+    "label": "O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "RT @ BethQuarterman7 : National Guard member missing after flash flooding strikes Maryland city . Please pray # PrayforMilitary",
+    "label": "O O O O O O O O O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "Here it is , right on schedule after every disaster , trying to drum up more biz w/their PRs : UnitedHealthcare and Optum Take Action to Support People Affected by Maryland Floods",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O"
+  },
+  {
+    "text": "Watch Video Severe flooding in Ellicott City , Maryland , has submerged vehicles , forced residents to evacuate and caused major damage to homes and businesses . Newsys partners at WMAR",
+    "label": "O O O O O B-LOC I-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Monday May 28 - Morning Report : National Guardsman missing after monstrous floods sink Maryland town ; Trump visits Arlington after critics slam appalling Memorial Day tweet Via @ nypost",
+    "label": "O O O O O O O O O O O O O O B-LOC O O O O B-LOC O O O O O O O O O O"
+  },
+  {
+    "text": "WEATHER ALERT : Flood Warning issued for parts of Prince Georges and Charles counties in Maryland . Flash flooding reported in PG County",
+    "label": "O O O O O O O O O B-LOC I-LOC O B-LOC O O B-LOC O O O O O B-LOC I-LOC"
+  },
+  {
+    "text": "Timely info from Sustainable Maryland on the recent floods in Maryland , and why we \u2019 d better get proactive in our planning & risk assessment ! Township of Monroe Sustainable Jersey Rutgers",
+    "label": "O O O O B-LOC O O O O O B-LOC O O O O O O O O O O O O O O O O B-LOC I-LOC I-LOC O B-LOC O"
+  },
+  {
+    "text": "This is my Town . Always the victim to natural forces while lacking the infrastructure changes and drainage re-direction and disbursement . My driveway was under a foot of raging water . Could not see the grass for the racing food water .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "A state of emergency has been declared in the US state of # Maryland as catastrophic flash floods swept Ellicott City after heavy rain . Officials have urged residents to go to higher ground immediately .",
+    "label": "O O O O O O O O O B-LOC O O O B-LOC O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "In Maryland , Elliot City was devastated by floods over the weekend . Will this town choose to rebuild or retreat in the face of disastrous climate change ?",
+    "label": "O B-LOC O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "The body of a National Guardsman was found in a Maryland river today , two days after he went missing while attempting to rescue a woman and her cat during devastating flash floods that swept through Ellicott City .",
+    "label": "O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O"
+  },
+  {
+    "text": "I liked a @ YouTube video Searchers locate body of guardsman who went missing in Maryland floods",
+    "label": "O O O O O O O O O O O O O O O B-LOC O"
+  },
+  {
+    "text": "# Alerts-Flash Flood Warning until 9:30pm for portions of # Baltimore & # Howard counties in Maryland . The worst of the rain has been south of the warning area . Plus the storms are moving east at 30 mph and not sitting in place . # mdwx @ WMAR2Weather @ WMAR2News",
+    "label": "O O O O O O O O O O B-LOC O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "39-year-old Eddison Hermond of Severn , Maryland , was last seen trying to help a woman rescue her cat behind a restaurant while churning , brown waters ripped through Ellicott City \u2019 s flood-prone downtown .",
+    "label": "O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O"
+  },
+  {
+    "text": "There has been terrible devastation after flood waters rushed through Ellicott City , Maryland , U.S. , toppling buildings & upending cars & a months worth of rain has fallen in parts of the West Midlands , UK , in just an hour . Climate change is real . Weather patterns are changing .",
+    "label": "O O O O O O O O O O B-LOC I-LOC O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O B-LOC I-LOC O B-LOC O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Please pray for a brave vet who is missing in Maryland in the flooding . Ellicott City , Maryland flash floods leave National Guard member missing , devastate town recovering from 2016 deluge # FoxNews",
+    "label": "O O O O O O O O O O B-LOC O O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "# MISSING National guardsman and Air Force Veteran Eddison Hermond was swept away while trying to help people during the flooding in Ellicott City , Maryland and is still missing .",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O B-LOC O O O O O"
+  },
+  {
+    "text": "Howard County officials searching for man reported missing in Ellicott City flood",
+    "label": "B-LOC I-LOC O O O O O O O B-LOC I-LOC O"
+  },
+  {
+    "text": "Eddison Hermond , a National Guard sergeant who is believed to have been swept away while helping a woman find her cat during Ellicott City flooding , is still missing",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O"
+  },
+  {
+    "text": "US FLASH FLOODS 7 DRAMATIC VIDEO - Drone footage reveals extent of flood damage to Maryland city . STORY # 4155985",
+    "label": "O O O O O O O O O O O O O O O B-LOC O O O O O"
+  },
+  {
+    "text": "AdvantaClean of Frederick is available to help mitigate the damages to homes and businesses in Ellicott City and surrounding areas . Call 877-800-2382 toll free to connect with our office to get the job done right .",
+    "label": "O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "God bless this kind man .. i hope so much some way he is found alive . Rescuers seek 1 man still missing after Maryland flash flood",
+    "label": "O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O"
+  },
+  {
+    "text": "Howard County officials are searching for a Maryland National Guardsman reported missing from Sunday \u2019 s devastating floods . Police say he was helping search for a missing cat when he was last seen .",
+    "label": "B-LOC O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "Body found in Patapsco River days after Ellicott City flooding via @ WUSA9",
+    "label": "O O O B-LOC I-LOC O O B-LOC I-LOC O O O O"
+  },
+  {
+    "text": "Rain and thunderstorms are forecast again Friday and Saturday across Maryland , sustaining the threat of more flooding .",
+    "label": "O O O O O O O O O O B-LOC O O O O O O O O"
+  },
+  {
+    "text": "At 6:46 AM , Williamsport [ Washington Co , MD ] DEPT OF HIGHWAYS reports FLOOD . MARYLAND ROUTE 68 FLOODED AND CLOSED DUE TO BACKWATER FLOODING OF CONOCOCHEAGUE CREEK JUST UPSTREAM OF THE POTOMAC RIVER .",
+    "label": "O O O O B-LOC O B-LOC O O O O O O O O O O B-LOC B-LOC I-LOC O O O O O O O O B-LOC I-LOC O O O O B-LOC I-LOC O"
+  }
+]
